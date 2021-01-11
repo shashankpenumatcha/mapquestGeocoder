@@ -1,0 +1,24 @@
+{
+  "name": "parse-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "geobatch": "^1.4.3",
+    "geocodio-library-node": "^1.3.0",
+    "mapquest": "^0.2.0",
+    "mapquest-geocoder": "^1.1.0",
+    "no-network-geocoder": "0.0.3",
+    "node-geocoder": "^3.27.0",
+    "parse": "^2.19.0"
+  }
+}
